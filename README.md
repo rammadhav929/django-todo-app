@@ -10,3 +10,5 @@ This is a Django-based CRUD application where users can:
 
 The app also stores the date automatically when each task is created — shown beside the task like:
 (20 Nov 2025)
+
+employees is actually Todo app you can rename it
