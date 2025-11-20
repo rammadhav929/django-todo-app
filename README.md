@@ -18,5 +18,7 @@ python manage.py migrate:-It run the sql syntax's and creates the table.
 python manage.py runserver is used to run the project.
 
 URLs (urls.py): Directs the browser request to the correct function.
+
 Views (views.py): Contains the Python logic to handle the request, interact with the Model, and process/render the Template.
+
 Templates (todo.html): Renders the HTML, displays data from the Views, and provides the forms/buttons for user interaction.
