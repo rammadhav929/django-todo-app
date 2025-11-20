@@ -22,3 +22,5 @@ URLs (urls.py): Directs the browser request to the correct function.
 Views (views.py): Contains the Python logic to handle the request, interact with the Model, and process/render the Template.
 
 Templates (todo.html): Renders the HTML, displays data from the Views, and provides the forms/buttons for user interaction.
+
+And here in code instead of using put I used post and js , because using put ajax is also required and it makes code complex.
